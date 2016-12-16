@@ -49,7 +49,7 @@ a:hover {
 }
 
 .cimg {
-  width: 18em;
+  width: 16em;
 }
 
 label {
@@ -63,6 +63,10 @@ label {
 }
 
 .candies {
+  display: inline-block;
+}
+
+.chocolates {
   display: inline-block;
 }
 
