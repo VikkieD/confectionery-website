@@ -1,0 +1,61 @@
+html {
+  font-family: sans-serif;
+  background-color: #fec;
+}
+
+header {
+  background-color: #b1d3ba;
+}
+
+.contact {
+  background-color: #fec;
+}
+
+h1 {
+  font-family: Lobster, cursive;
+  color: #fff;
+}
+
+h2 {
+  font-family: "Nunito Sans", sans-serif;
+  color: #f2706d;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Nunito Sans", sans-serif;
+  color: #f2706d;
+}
+
+h4 {
+  font-family: "Nunito Sans", sans-serif;
+  color: #f2706d;
+}
+
+p {
+  font-family: "Nunito Sans", sans-serif;
+  color: #4a564e;
+}
+
+.nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+label {
+  font-family: "Nunito Sans", sans-serif;
+  color: #4a564e;
+}
+
+.btn {
+  background-color: #ffcb65;
+  border-color: #ffcb65;
+}
+
+.candies {
+  display: inline-block;
+}
+
+footer {
+  background-color: #b1d3ba;
+}
