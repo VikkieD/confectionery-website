@@ -48,6 +48,10 @@ a:hover {
   color: #fecb65;
 }
 
+.cimg {
+  width: 18em;
+}
+
 label {
   font-family: "Nunito Sans", sans-serif;
   color: #4a564e;
