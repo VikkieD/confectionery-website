@@ -6,6 +6,7 @@ html {
 header {
   background-color: #b1d3ba;
   text-align: center;
+  background-image: url("../images/candy-1.jpg");
 }
 
 .contact {
