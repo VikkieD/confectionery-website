@@ -5,6 +5,7 @@ html {
 
 header {
   background-color: #b1d3ba;
+  text-align: center;
 }
 
 .contact {
@@ -42,7 +43,7 @@ p {
   text-decoration: none;
 }
 
-.nav hover {
+.nav:hover {
   color: #fecb65;
 }
 
